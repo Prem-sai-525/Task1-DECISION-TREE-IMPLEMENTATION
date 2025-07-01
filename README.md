@@ -1,4 +1,4 @@
- Overview of the Decision Tree Implementation
+ **Overview of the Decision Tree Implementation**
 
 🧠 Objective:
 To implement a Decision Tree Classifier from scratch without using machine learning libraries like scikit-learn. This project demonstrates the core working principles of decision trees, particularly using the ID3 algorithm which is based on Information Gain.
