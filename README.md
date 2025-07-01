@@ -1,9 +1,9 @@
  **Overview of the Decision Tree Implementation**
 
-🧠 Objective:
+ Objective:
 To implement a Decision Tree Classifier from scratch without using machine learning libraries like scikit-learn. This project demonstrates the core working principles of decision trees, particularly using the ID3 algorithm which is based on Information Gain.
 
-🧾 Core Components:
+ Core Components:
 1. Data Handling
 The dataset is read from a CSV file.
 
@@ -83,7 +83,7 @@ Correct Predictions
  ×100%
 Provides a basic evaluation metric to assess performance.
 
-⚙️ Implementation Details
+ Implementation Details
 No external ML libraries used.
 
 Logic closely follows the ID3 algorithm.
@@ -92,7 +92,7 @@ Focus is on understanding decision trees conceptually and programmatically.
 
 The structure and flow are educational and transparent, ideal for learning.
 
-📊 Dataset
+ Dataset
 The dataset is expected to be a CSV file with categorical or binary features.
 
 Labels are binary (e.g., Yes/No, 0/1).
