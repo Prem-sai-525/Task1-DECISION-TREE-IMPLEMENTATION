@@ -97,5 +97,3 @@ The dataset is expected to be a CSV file with categorical or binary features.
 
 Labels are binary (e.g., Yes/No, 0/1).
 
-If you'd like, I can describe or summarize the specific dataset used in your notebook.
-
