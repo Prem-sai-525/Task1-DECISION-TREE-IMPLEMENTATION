@@ -1,3 +1,14 @@
+COMPANY: CODTECH IT SOLUTION
+
+NAME :P PREM SAI
+
+INTERN ID: CT08DM1119
+
+DOMAIN: Machine Learning
+
+DURATION: 8 weeks
+
+MENTOR: NEELA  
  **Overview of the Decision Tree Implementation**
 
  Objective:
